@@ -1,0 +1,10 @@
+Name,Label,Type,Description
+year,Year,integer,"The record year."
+month,Month,string,"The record month."
+state,State,string,"The record state or United States."
+handgun_unadjusted,"Unadjusted Handgun Sales",integer,"The estimated number of handgun sales in the record year and month, without seasonal adjustment."
+long_gun_unadjusted,"Unadjusted Long Gun Sales",integer,"The estimated number of long gun sales in the record year and month, without seasonal adjustment."
+total_unadjusted,"Unadjusted Total Sales",integer,"The estimated number of long gun and handgun sales in the record year and month, without seasonal adjustment."
+handgun_adjusted,"Adjusted Handgun Sales",integer,"The estimated number of handgun sales in the record year and month, with seasonal adjustment."
+long_gun_adjusted,"Adjusted Long Gun Sales",integer,"The estimated number of long gun sales in the record year and month, without seasonal adjustment."
+total_adjusted,"Adjusted Total Sales",integer,"The estimated number of long gun and handgun sales in the record year and month, with seasonal adjustment."
